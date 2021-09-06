@@ -8,10 +8,10 @@ namespace GitHub_mokymai
         static void Main(string[] args)
         {
 
-            List<string> Sarasas = new List<string>() { "gele", "medis", "paukstis", "namas" };
-            for (int i = 0; i < Sarasas.Count; i++)
+            string[] Masyvas = { "gele", "medis", "paukstis", "namas" };
+            for (int i = 0; i < Masyvas.Length; i++)
             {
-                Console.WriteLine(Sarasas[i]);
+                Console.WriteLine(Masyvas[i]);
             }
             
 
