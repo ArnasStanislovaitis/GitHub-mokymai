@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub mokymai", "GitHub mokymai\GitHub mokymai.csproj", "{60EC5452-EDFF-49D6-A3E3-BE6737A4F3DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60EC5452-EDFF-49D6-A3E3-BE6737A4F3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60EC5452-EDFF-49D6-A3E3-BE6737A4F3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60EC5452-EDFF-49D6-A3E3-BE6737A4F3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60EC5452-EDFF-49D6-A3E3-BE6737A4F3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3C8E4D-9854-4302-917C-77960BF23B6A}
+	EndGlobalSection
+EndGlobal
